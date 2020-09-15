@@ -2,7 +2,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/asifrpatel/asifrpatel)](https://github.com/asifrpatel)
 [![LinkedIn Badge](https://img.shields.io/badge/-Asif%20Patel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asif-patel-9820b9b7/)](https://www.linkedin.com/in/asif-patel-9820b9b7/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Asif%20Patel-gray?style=flat&logo=stackoverflow&logoColor=orange&link=https://stackoverflow.com/story/asifrpatel)](https://stackoverflow.com/story/asifrpatel)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Asif%20Patel-gray?style=flat&logo=stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/6472077/asif-patel?tab=profile)](https://stackoverflow.com/users/6472077/asif-patel?tab=profile)
 
 <h3>❤️&nbsp;&nbsp;to code with</h3>
 <p>
