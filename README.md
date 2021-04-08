@@ -15,13 +15,8 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-ea2845?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-DD0031?style=flat-square&logo=ruby&logoColor=white" />
-  <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-CB3837?style=flat-square&logo=terminal&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-E34F26?style=flat-square&logo=postgres&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FB542B?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="DJango" src="https://img.shields.io/badge/-DJnago-EC4A3F?style=flat-square&logo=DJango&logoColor=white" />
-  <img alt="Rails" src="https://img.shields.io/badge/-Rails-F9A03C?style=flat-square&logo=rails&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
