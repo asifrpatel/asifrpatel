@@ -7,12 +7,10 @@
 <h3>❤️&nbsp;&nbsp;to code with</h3>
 <p>
   <img alt="Android" src="https://img.shields.io/badge/-Android-45b8d8?style=flat-square&logo=Android&logoColor=green" />
-  <img alt="iOS" src="https://img.shields.io/badge/-iOS-8DD6F9?style=flat-square&logo=apple&logoColor=white" /> 
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
  <img alt="AWS" src="https://img.shields.io/badge/-AWS-007ACC?style=flat-square&logo=aws-cloud&logoColor=yellow" />
  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-E34F26?style=flat-square&logo=postgres&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FB542B?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
